@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 - I'm learning new technologies quickly. -->
 - 🔭 I’m currently working on cloud architecture and security researches
 - 🌱 I’m currently learning k8s, aws, terraform, node.js, reverse engineering
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about participating in new awesome projects!
 - 📫 How to reach me: danilapoddubny26@gmail.com
+- 👯 I’m looking to collaborate on any interesting projects!
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <p>
