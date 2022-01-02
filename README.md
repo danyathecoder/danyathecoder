@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - I have some experience with technologies such as Qt C++, IDA Pro, Ghidra.
 - I'm learning new technologies quickly. -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danyathecoder&show_icons=true&theme=cobalt&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danyathecoder&show_icons=true&theme=dracula&count_private=true"/>
 </p>
 
 <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyathecoder&&show_icons=true&theme=radical"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyathecoder&&show_icons=true&theme=dracula"/>
 </p>
 
 <p >   
