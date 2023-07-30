@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 # About Me
-<!-- - I’m currently working on qVK and source engine android port.
-- I’m currently learning reverse engineering techniques.
-- At a basic level, I know such programming languages as python, c, c++ and java
-- I have some experience with technologies such as Qt C++, IDA Pro, Ghidra.
-- I'm learning new technologies quickly. -->
-- 🔭 I’m currently working on cloud architecture and security researches
-- 🌱 I’m currently learning k8s, aws, terraform, node.js, reverse engineering
+- 🔭 I’m currently working on cloud architecture and security research
+- 🌱 I’m currently learning k8s, azure, terraform, node.js, reverse engineering
 - 💬 Ask me about participating in new awesome projects!
 - 📫 How to reach me: danilapoddubny26@gmail.com
 - 👯 I’m looking to collaborate on any interesting projects!
