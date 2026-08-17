@@ -1,39 +1,49 @@
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzYm15NGwxazZkbmtrZHhpbHltOGVxbGp3cWltejA0MzgxaHRpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="100%"/></p>
 
-### 👨‍💻 About me:
+<h1 align="center">Hi, I'm Danila 👋</h1>
 
-- 🔭 I’m currently working on High-Performance Computing and Machine Learning
-- 🌱 I’m currently learning Go, Deep Learning
-- 👯 I’m looking to collaborate on [Cloud Native Computing Foundation projects](https://github.com/cncf)
-- 💬 Ask me about Infrastructure, Kubernetes and Software Architecture
-- 📫 How to reach me: danilapoddubny26@gmail.com
-
-### 🛠 Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+<p align="center">
+  Physics student at the <b>University of Warsaw</b> · building storage systems at <b>Box</b>
 </p>
 
-### 🔥 My Stats :
+---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyathecoder&&show_icons=true&theme=dracula" style="height: 250px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danyathecoder&show_icons=true&theme=dracula&count_private=true" style="height: 250px;" />
-</div>
+### 🧠 What I'm into
+
+- 🧬 **Brain–computer interfaces** — neural decoding, signal processing, and the hardware that makes it possible
+- 🌍 **World models & physics simulations** — teaching machines an intuition for how things move
+- 🔬 **Physics** — currently studying at the University of Warsaw
+- 💻 **Local LLMs** — running models on your own hardware; I write about what I learn on [X](https://x.com/danyathemagpie)
+
+### 💼 Work
+
+- 📦 Currently at **Box**, working on storage
+- 🏎 Building **[ApexManager](https://github.com/danyathecoder/ApexManager)** — a UI for the Assetto Corsa Competizione dedicated server
+- 🕸 Previously worked on **[Parsera](https://github.com/raznem/parsera)** ([@parsera-labs](https://github.com/parsera-labs)) — LLM-powered web scraping
+
+### 🛠 What I can build
+
+- **Systems that move a lot of data** — storage paths, upload/download pipelines, and the latency and reliability work that keeps them fast under real load
+- **Infrastructure that runs itself** — container platforms, declarative infrastructure, delivery pipelines, and the monitoring and logging that make failures visible before users notice
+- **Clusters for AI and HPC workloads** — from bare hardware and accelerators up to scheduled, reproducible training and inference
+- **LLM-powered products** — retrieval systems, agent platforms, and data extraction pipelines that stay reliable at thousands of users, not just in a demo
+- **Software that gets used** — open source maintained in public, plus talks and teaching to bring people along with it
+
+### 🤝 Looking for a team
+
+I've competed in **CTFs** — reverse engineering, binary exploitation, web — and I'd love to get back into it. I haven't done **Kaggle** yet, but I want to start. If your team is short a player for either, reach out.
+
+### 📫 Reach me
+
+<a href="mailto:danilapoddubny26@gmail.com"><img src="https://img.shields.io/badge/Email-danilapoddubny26@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/danyathemagpie"><img src="https://img.shields.io/badge/X-@danyathemagpie-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/in/danilapaddubny"><img src="https://img.shields.io/badge/LinkedIn-danilapaddubny-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="./metrics.svg" width="49%" />
+  <img src="./metrics.plugin.languages.svg" width="49%" />
+</p>
