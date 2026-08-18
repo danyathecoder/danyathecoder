@@ -38,12 +38,3 @@ I've competed in **CTFs** — reverse engineering, binary exploitation, web — 
 <a href="mailto:danilapoddubny26@gmail.com"><img src="https://img.shields.io/badge/Email-danilapoddubny26@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/danyathemagpie"><img src="https://img.shields.io/badge/X-@danyathemagpie-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://linkedin.com/in/danilapaddubny"><img src="https://img.shields.io/badge/LinkedIn-danilapaddubny-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./metrics.svg" width="49%" />
-  <img src="./metrics.plugin.languages.svg" width="49%" />
-</p>
