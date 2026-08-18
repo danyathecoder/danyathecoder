@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzYm15NGwxazZkbmtrZHhpbHltOGVxbGp3cWltejA0MzgxaHRpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="100%"/></p>
 
-<h1 align="center">Hi, I'm Danila 👋</h1>
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
   Physics student at the <b>University of Warsaw</b> · building storage systems at <b>Box</b>
